@@ -1,9 +1,66 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
+    "reviews": [
+      {
+          "rating": 6,
+          "text": "average",
+          "movieId": 35,
+          "webuserId": 2
+      },
+      {
+          "rating": 4,
+          "text": "I hate lawyers",
+          "movieId": 35,
+          "webuserId": 4
+      },
+      {
+          "rating": 5,
+          "text": "not great",
+          "movieId": 35,
+          "webuserId": 5
+      },
+      {
+          "rating": 7,
+          "text": "entertaining",
+          "movieId": 35,
+          "webuserId": 6
+      },
+      {
+          "rating": 8,
+          "text": "great",
+          "movieId": 35,
+          "webuserId": 7
+      },
+      {
+          "rating": 7,
+          "text": "not bad",
+          "movieId": 7,
+          "webuserId": 2
+      },
+      {
+          "rating": 8,
+          "text": "nice!",
+          "movieId": 7,
+          "webuserId": 4
+      },
+      {
+          "rating": 6,
+          "text": "average",
+          "movieId": 35,
+          "webuserId": 5
+      },
+      {
+          "rating": 4,
+          "text": "too bloody",
+          "movieId": 35,
+          "webuserId": 6
+      },
+      {
+          "rating": 7,
+          "text": "I like diamonds",
+          "movieId": 35,
+          "webuserId": 7
+      }
+  ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
