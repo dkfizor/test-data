@@ -45,26 +45,69 @@
       {
           "rating": 6,
           "text": "average",
-          "movieId": 35,
+          "movieId": 7,
           "webuserId": 5
       },
       {
           "rating": 4,
           "text": "too bloody",
-          "movieId": 35,
+          "movieId": 7,
           "webuserId": 6
       },
       {
           "rating": 7,
           "text": "I like diamonds",
-          "movieId": 35,
+          "movieId": 7,
           "webuserId": 7
       }
   ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
+    "webusers": [
+      {
+          "id": "1",
+          "fullname": "John Merriwether",
+          "email": "john@ltcm.com"
+      },
+      {
+          "id": "2",
+          "fullname": "Jeffrey Skilling",
+          "email": "jeffrey@enron.com"
+      },
+      {
+          "id": "3",
+          "fullname": "Michael Milken",
+          "email": "mike@drexel.com"
+      },
+      {
+          "id": "4",
+          "fullname": "Ruja Ignatova",
+          "email": "ruja@onecoin.com"
+      },
+      {
+          "id": "5",
+          "fullname": "Ross Ulbricht",
+          "email": "ross@silkroad.com"
+      },
+      {
+          "id": "6",
+          "fullname": "Fred Goodwin",
+          "email": "fred@rbs.com"
+      },
+      {
+          "id": "7",
+          "fullname": "Martha Steward",
+          "email": "martha@imclone.com"
+      },
+      {
+          "id": "8",
+          "fullname": "Steve Cohen",
+          "email": "steve@sac.com"
+      },
+      {
+          "id": "9",
+          "fullname": "Richard Fuld",
+          "email": "richard@lehman.com"
+      }
+  ]
     "profile": {
       "name": "typicode"
     }
