@@ -1,0 +1,62 @@
+[
+    {
+        "rating": 6,
+        "text": "average",
+        "movieId": 35,
+        "webuserId": 2
+    },
+    {
+        "rating": 4,
+        "text": "I hate lawyers",
+        "movieId": 35,
+        "webuserId": 4
+    },
+    {
+        "rating": 5,
+        "text": "not great",
+        "movieId": 35,
+        "webuserId": 5
+    },
+    {
+        "rating": 7,
+        "text": "entertaining",
+        "movieId": 35,
+        "webuserId": 6
+    },
+    {
+        "rating": 8,
+        "text": "great",
+        "movieId": 35,
+        "webuserId": 7
+    },
+    {
+        "rating": 7,
+        "text": "not bad",
+        "movieId": 7,
+        "webuserId": 2
+    },
+    {
+        "rating": 8,
+        "text": "nice!",
+        "movieId": 7,
+        "webuserId": 4
+    },
+    {
+        "rating": 6,
+        "text": "average",
+        "movieId": 35,
+        "webuserId": 5
+    },
+    {
+        "rating": 4,
+        "text": "too bloody",
+        "movieId": 35,
+        "webuserId": 6
+    },
+    {
+        "rating": 7,
+        "text": "I like diamonds",
+        "movieId": 35,
+        "webuserId": 7
+    }
+]
